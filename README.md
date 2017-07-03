@@ -15,4 +15,4 @@ In this mini-project, I built three responsive pricing tables using only HTML5 a
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License.
